@@ -2,4 +2,8 @@ GitInPractice.asciidocGitInPractice.asciidocGitInPractice.asciidocGitInPractice.
 pepepepe
 papapappa
 pipipipipipipip
+<<<<<<< HEAD
 popopooop
+=======
+pupupupupupupuup
+>>>>>>> 46704701bc5f60e2f00ef6d357d11c3b7a7743bf
